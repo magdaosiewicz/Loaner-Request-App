@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="b7d3aaf320a040107f449e40855094af" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="other_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-24 11:03:42</sys_created_on>
+            <sys_id>a5042ef320a040107f449e4085509431</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="b7d3aaf320a040107f449e40855094a9">b7d3aaf320a040107f449e40855094af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-24 11:03:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-24 11:03:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7d3aaf320a040107f449e40855094af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">07e6c2f3206040107f449e40855094a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">07e6c2f3206040107f449e40855094a8</sys_scope>
+            <sys_update_name>sys_ui_section_b7d3aaf320a040107f449e40855094af</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-24 11:03:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="other view" name="other_view">b7d3aaf320a040107f449e40855094a9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
